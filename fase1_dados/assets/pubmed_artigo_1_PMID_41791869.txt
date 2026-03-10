@@ -1,0 +1,12 @@
+TÍTULO: Reimagining Thomas Lewis's perspective: using artificial intelligence tools to predict cardiovascular risk from computed tomography.
+AUTORES: Kotronias RA, Sobirov I, Antoniades C
+FONTE: PubMed / BVS (Biblioteca Virtual em Saúde)
+PMID: 41791869
+--------------------------------------------------
+
+RESUMO CLINICO (TEXTO EXTRAÍDO PARA NLP):
+Artificial intelligence (AI) is reshaping cardiovascular imaging, transforming it from a set of diagnostic tests into powerful tools of precision medicine. This review traces this evolution through the lens of Thomas Lewis's legacy of clinical science, which championed the integration of physiology, experimentation and patient care. Modern AI fulfils that perspective by extracting biological information from routine imaging and linking it with molecular data to reveal mechanisms of disease, forecast outcomes and personalise therapy. An illustrative example of this translational pathway is the Fat Attenuation Index (FAI) score and AI-Risk model. The FAI Score is a new image analysis method that measures coronary inflammation from routine coronary CT angiograms (CCTA) by analysing the CT attenuation gradients within pericoronary adipose tissue in a standardised way, with strong value in predicting future cardiovascular events. The AI Risk model is a prognostic algorithm that integrates FAI Score, metrics of the extent of coronary plaque (by incorporating the Duke score) and clinical risk factors, to generate an accurate prediction of an individual's risk for a cardiovascular event, which is used clinically for risk stratification and decision making. Emerging big data-driven fields such as radiotranscriptomics, merging imaging data with multidimensional biological profiles, enable non-invasive 'molecular biopsies' that accelerate precision cardiology. Alongside these advances, the review addresses the ethical, regulatory and environmental challenges of AI deployment. Ultimately, AI is the current version of Lewis's perspective of translation: physiology shown in pixels, algorithms turning biology into care and discovery reaching its highest goal, which is to improve patient outcomes.
+
+--------------------------------------------------
+REFERÊNCIA ACADÊMICA (PADRÃO VANCOUVER):
+Kotronias RA, Sobirov I, Antoniades C. Reimagining Thomas Lewis's perspective: using artificial intelligence tools to predict cardiovascular risk from computed tomography.. Heart (British Cardiac Society). 2026; PMID: 41791869.

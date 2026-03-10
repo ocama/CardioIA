@@ -1,0 +1,67 @@
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Pastas de IDE e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python e MLOps
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Ambientes Virtuais (VENV)
+venv/
+.env/
+env.bak/
+venv.bak/
+
+# Logs e Profiling
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+profile_default/
+
+# Segredos, Chaves e Credenciais
+.env
+.secret
+credentials.json
+key.pem
+secrets/
+
+# Ignorar Documentos / Referências brutos da Instituição (FIAP e Alunos)
+# Mantendo privacidade e focando apenas no código gerado e documentação oficial
+docs/referencias/
+docs/referencias_fiap/
+*FIAP*.txt
+*Trabalho*.txt
+*Capitulos*.txt
+
+# Exceção de Arquivos
+# As imagens PNG do ECG e os dados Ouro ficam.

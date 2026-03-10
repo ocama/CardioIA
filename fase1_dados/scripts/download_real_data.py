@@ -62,7 +62,7 @@ def fetch_medical_texts() -> None:
         "Eletrocardiograma": "https://pt.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Eletrocardiograma&format=json"
     }
     
-    headers = {"User-Agent": "Projeto_CardioIA_Academico/1.0 (omar.assem@example.com)"}
+    headers = {"User-Agent": "Projeto_CardioIA_Academico/1.0 (contato@cardioai.projeto)"}
     
     for title, url in topics.items():
         try:

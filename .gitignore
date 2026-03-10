@@ -65,3 +65,43 @@ docs/referencias_fiap/
 
 # Exceção de Arquivos
 # As imagens PNG do ECG e os dados Ouro ficam.
+
+# =============================================================
+# FASES FUTURAS (2-7) — Modelos, Dados Grandes e Cloud
+# =============================================================
+
+# Modelos de ML treinados (não versionar binários pesados)
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.joblib
+saved_models/
+model_checkpoints/
+
+# Dados brutos grandes (compressão obrigatória antes do commit)
+*.parquet
+*.arrow
+*.feather
+raw_data/
+data_lake/
+
+# Autenticação Cloud (GCP / AWS / Azure)
+service_account*.json
+gcp_key*.json
+*-credentials.json
+*.pfx
+*.p12
+token.json
+firebase_credentials.json
+
+# Jupyter Notebook outputs (commitar apenas notebooks limpos)
+# Use: jupyter nbconvert --clear-output --inplace notebook.ipynb
+.ipynb_checkpoints/
+
+# MLflow e experimentos locais
+mlruns/
+mlflow.db

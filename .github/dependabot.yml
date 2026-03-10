@@ -1,0 +1,20 @@
+# Dependabot — Auditoria Automática de Segurança
+# Verifica CVEs nas dependências Python semanalmente.
+# Documentação: https://docs.github.com/pt/code-security/dependabot
+
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "09:00"
+      timezone: "America/Sao_Paulo"
+    labels:
+      - "dependencies"
+      - "security"
+    commit-message:
+      prefix: "sec"
+      include: "scope"
+    open-pull-requests-limit: 5

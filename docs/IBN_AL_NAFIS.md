@@ -1,9 +1,11 @@
 # 🌙 O Patrono: Ala-al-Din Abu al-Hasan Ali ibn Abi-Hazm al-Qarshi al-Dimashqi (Ibn al-Nafis)
 
+[Página Inicial](#) • [O Patrono (Ibn al-Nafis)](./docs/IBN_AL_NAFIS.md) • [Filosofia Math-First](#-filosofia-científica-math-first-llm-second) • [Entregas da Fase 1](#-entrega-da-fase-1-batimentos-de-dados-datasets-públicos) • [Organização do Projeto](#-roadmap-e-organização-do-projeto) • [Multiagentes](#-ecossistema-de-ia-e-automação-skills) • [Licença](#)
+
 > **"Quando ouvimos algo inusitado, não devemos rejeitá-lo imediatamente, pois as maravilhas da natureza e do intelecto não têm fim."** — *Ibn al-Nafis*
 
 <p align="center">
-  <img src="./assets/ibn_al_nafis.png" alt="Ibn al-Nafis" width="300"/>
+  <img src="./assets/ibn_al_nafis.png" alt="Ibn al-Nafis" width="600"/>
   <h2 align="center">ابن النفيس</h2>
 </p>
 

@@ -2,7 +2,7 @@
 
 ## Dados e Privacidade (LGPD / Lei 13.709/2018)
 
-O CardioIA é um projeto **estritamente acadêmico** desenvolvido pela equipe na FIAP.
+O CardioIA é um projeto **estritamente acadêmico** desenvolvido para uma atividade para a disciplina de IA da FIAP.
 
 ### Natureza dos Dados
 

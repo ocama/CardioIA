@@ -1,7 +1,7 @@
 # CardioIA (Codinome: Projeto Nafis)
 
 <p align="center">
-  <img src="./docs/assets/logo.png" alt="CardioIA Logo" width="300"/>
+  <img src="./docs/assets/logo.png" alt="CardioIA Logo" width="600"/>
 </p>
 
 > Projeto Acadêmico - FIAP (Inteligência Artificial)
@@ -24,7 +24,7 @@ Bem-vindo(a) ao repositório oficial do **CardioIA**, uma plataforma digital ino
 >
 > *Este documento é a matriz principal do projeto CardioIA, contendo o núcleo operatório, a orquestração multiagentes, e o registro acadêmico da frota de saúde algorítmica.*
 
-[Página Inicial](#) • [O Patrono (Ibn al-Nafis)](./docs/IBN_AL_NAFIS.md) • [Filosofia Math-First](#-filosofia-científica-math-first-llm-second) • [Entregas da Fase 1](#-entrega-da-fase-1-batimentos-de-dados-datasets-públicos) • [Organização do Projeto](#-roadmap-e-organização-do-projeto) • [Multiagentes](#-ecossistema-de-ia-e-automação-skills) • [Licença](#)
+[⬆️ Início](#cardioia-codinome-projeto-nafis) • [O Patrono (Ibn al-Nafis)](./docs/IBN_AL_NAFIS.md) • [Filosofia Math-First](#-filosofia-científica-math-first-llm-second) • [Entregas da Fase 1](#-entrega-da-fase-1-batimentos-de-dados-datasets-públicos) • [Organização do Projeto](#️-roadmap-e-organização-do-projeto) • [Multiagentes](#-ecossistema-de-ia-e-automação-skills) • [Licença](./LICENSE)
 
 ---
 

@@ -38,3 +38,7 @@ O CardioIA honra essa herança holística integrando:
 > — **Alcorão (Surah Al-Ma'idah 5:32)** 
 
 O conhecimento transcende eras e barreiras. Que o algoritmo final, forjado à luz das descobertas médicas deste grande mestre do século XIII, cumpra no século XXI o seu mesmo e sublime juramento: a preservação e compreensão inesgotável da vida humana.
+
+## Nota de Transparência & Ética:
+
+"Embora o autor deste projeto (Omar Assem) identifique-se como ateu, é um defensor intransigente do pluralismo religioso e da liberdade de pensamento. O CardioIA nasce de um profundo respeito pela diversidade de crenças e pela herança cultural das religiões, reconhecendo que a ciência contemporânea foi construída sobre os ombros de gigantes de todas as fés. Este projeto celebra o conhecimento humano em todas as suas formas, partindo do princípio de que o rigor científico e a ética humanista transcendem fronteiras teológicas em prol de um objetivo universal: a preservação da vida. É, por fim, um tributo ao legado da curiosidade humana e à colaboração global entre diferentes épocas, culturas e convicções."
